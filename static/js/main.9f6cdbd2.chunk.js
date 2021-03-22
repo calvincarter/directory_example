@@ -1,2 +1,0 @@
-(this.webpackJsonpdirectory=this.webpackJsonpdirectory||[]).push([[0],{9:function(e,t,r){"use strict";r.r(t);r(1);var n=r(3),c=r.n(n),o=r(0);var s=function(e){return Object(o.jsx)("input",{type:"text",placeholder:"Search Table",onChange:function(t){return e.searchText(t)}})};var a=function(){return Object(o.jsx)("div",{className:"hero",children:Object(o.jsx)(s,{})})};c.a.render(Object(o.jsx)(a,{}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.9f6cdbd2.chunk.js.map
